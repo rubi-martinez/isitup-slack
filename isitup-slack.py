@@ -1,5 +1,4 @@
 #isitup-slack 
-<<<<<<< HEAD
 #following Jake-swansons' python tutorial. 
 #Derived from David McCreath's PHP version here: https://github.com/mccreath/isitup-for-slack
 
