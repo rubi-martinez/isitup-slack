@@ -76,6 +76,3 @@ def isitiup():
 
 if __name__ == '__main__':
     app.run()
-=======
-#trying to commit 
->>>>>>> ee3461deef0e96d7897f94b37282a85658908e50
